@@ -3,7 +3,7 @@ let questions = [
     {
     numb: 6,
     question: "Cette rivière est l’affluent d’une autre. Laquelle ?",
-    answer: "3) l’Aveyron",
+    answer: "3) L’Aveyron",
     options: [
       "1) Le Tarn",
       "2) La Garonne",
